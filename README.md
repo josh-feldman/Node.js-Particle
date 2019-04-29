@@ -34,4 +34,4 @@ npm start
 
 Next Steps
 ----------
-App.js and the .ino file can be customized to demonstrate use of any GPIO pins on the Particle Agent through 
+App.js and the .ino file can be customized to demonstrate use of any GPIO pins on the Particle Agent. 
