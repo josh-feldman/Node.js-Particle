@@ -1,5 +1,5 @@
 # Node.js-Particle
-Demonstrated use of the Particle JavaScript API through Node.JS application to remotely command a Raspberry Pi. Note that this repo should be used on a remote computer. Only step 2 should be performed on the particle agent. This assumes Node and npm (Node Package Manager) are installed on the remote computer.
+Demonstrated use of the Particle JavaScript API through Node.JS application to remotely command a Raspberry Pi as a Particle Agent. Note that this repo should be used on a remote computer. Only step 2 should be performed on the particle agent. This assumes Node and npm (Node Package Manager) are installed on the remote computer.
 
 Creating an account
 ----------
